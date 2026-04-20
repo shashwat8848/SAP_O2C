@@ -4,7 +4,7 @@
 
 An interactive web-based simulation of the complete **SAP Order-to-Cash (O2C) cycle**, built with Python and Streamlit. It replicates the real SAP SD/FI module workflow — from Sales Order creation to Accounts Receivable clearance.
 
-**Live Demo:** [Click to Open App](https://your-app-link.streamlit.app)
+**Live Demo:** [Click to Open App](https://sapo2c1912ss.streamlit.app/)
 
 ---
 
